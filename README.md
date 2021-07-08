@@ -1,1 +1,1 @@
-# CDN 1.0
+# jsdelivr CDN
